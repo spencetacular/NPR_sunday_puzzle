@@ -7,7 +7,7 @@ text = File.open(dictionary).read
 alphabet = ("a".."z").to_a
 
 def check_sums(arr, word)
-	sum = arr[4] + arr[3] + arr[2] + arr [1]
+	sum = arr[4] + arr[3] + arr[2] + arr[1]
 	if  sum == arr[0]
 		puts word
 	end
