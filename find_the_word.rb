@@ -1,3 +1,4 @@
+# NPR Sunday puzzle 4/03/2016
 # Find the 5 letter word where if you take the numeric value of the last 4 letters
 # then add them together, the sum will equal the numeric value of the first letter.
 
